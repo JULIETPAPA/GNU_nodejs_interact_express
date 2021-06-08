@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Don't forget YEOMAN@ https://yeoman.io
+
+npm install -g yo
