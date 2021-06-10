@@ -1,0 +1,20 @@
+{
+  "name": "journey_travel",
+  "version": "1.0.0",
+  "description": "Count travels from sea to sea.",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "^S"
+  },
+  "keywords": [
+    "travel",
+    "hotels",
+    "cheap"
+  ],
+  "author": "Conde Jason Lee Prill",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  }
+}
